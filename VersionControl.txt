@@ -1,0 +1,1 @@
+1.1 | 2022/06/22 - [Bug Fix] Messages were not sent after XPath has been updated
